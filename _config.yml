@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Chenwei Zhang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at     University of British Columbia"
+  bio              : "Ph.D. Student at The University of British Columbia"
   location         : "Vancouver, BC"
   employer         :
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?gmla=AJsN-F6-OjwOU1idkSKCi5uRa0_-6HpgapaU-9hnGhKRDrUT0x1RBOSZHjoHE82Za4rnMD24TvFJqLWiiSfETHrqvxTFSAI2iPowQob9npMMgAdvEsaxqd8&hl=en&inst=17001591832933267808&user=JzFqC3cAAAAJ&view_op=list_works"
   email            : chwzhan@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Chenwei-Zhang-3"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Chenwei Zhang"
+  linkedin         : "chenweizhang95"
   orcid            : "https://orcid.org/0000-0001-6556-9407"
   pinterest        :
   soundcloud       :
