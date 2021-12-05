@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chenwei Zhang"
+title                    : "CHENWEI ZHANG"
 title_separator          : "-"
 name                     : &name "Chenwei Zhang"
-description              : &description "personal description"
+description              : &description "Ph.D. Student"
 url                      : https://chenwei-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenwei-zhang/chenwei-zhang.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Chenwei Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. Student at The University of British Columbia"
+  location         : "Vancouver, BC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?gmla=AJsN-F6-OjwOU1idkSKCi5uRa0_-6HpgapaU-9hnGhKRDrUT0x1RBOSZHjoHE82Za4rnMD24TvFJqLWiiSfETHrqvxTFSAI2iPowQob9npMMgAdvEsaxqd8&hl=en&inst=17001591832933267808&user=JzFqC3cAAAAJ&view_op=list_works"
+  email            : chwzhan@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Chenwei-Zhang-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Chenwei-Zhang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chenweizhang95/"
+  orcid            : "https://orcid.org/0000-0001-6556-9407"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ChenweiZhang"
   vine             :
   weibo            :
   xing             :
