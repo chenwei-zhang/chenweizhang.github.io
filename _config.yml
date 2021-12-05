@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "CHENWEI ZHANG"
 title_separator          : "-"
 name                     : &name "Chenwei Zhang"
-description              : &description "Ph.D. Student"
+description              : &description "Ph.D. Student in Computer Science"
 url                      : https://chenwei-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenwei-zhang/chenwei-zhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chenwei Zhang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at University of British Columbia"
+  bio              : "Ph.D. Student at     University of British Columbia"
   location         : "Vancouver, BC"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chenweizhang95"
+  linkedin         : "Chenwei Zhang"
   orcid            : "https://orcid.org/0000-0001-6556-9407"
   pinterest        :
   soundcloud       :
