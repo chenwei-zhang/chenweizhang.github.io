@@ -9,4 +9,4 @@ citation: 'Zhang, C., Yin, P., & Radovanovic, P. V. (2020). &quot;Manipulating C
 
 [Download paper here](https://doi.org/10.1149/09803.0077ecst)
 
-Cite: Chenwei Zhang <i>et al<i> 2020 <i>ECS Trans.<i> <b>98<b> 77.
+Cite: Chenwei Zhang <i>et al</i> 2020 <i>ECS Trans.</i> <b>98</b> 77.
