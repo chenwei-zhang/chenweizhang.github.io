@@ -7,4 +7,4 @@ collection: portfolio
 <img src='/images/niagarafalls/2.jpg'><br/><br/><br/>
 <img src='/images/niagarafalls/3.jpg'><br/><br/><br/>
 <img src='/images/niagarafalls/4.jpg'><br/><br/><br/>
-<img src='/images/niagarafalls/5.JPG'>
+<img src='/images/niagarafalls/5.jpg'>
