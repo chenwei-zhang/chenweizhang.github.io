@@ -1,6 +1,6 @@
 ---
 title: "Vancouver City"
-excerpt: "Here are some pictures I took in downtown Vancouver in spring 2019.<br/> <img src='/images/vancouver/1.jpg'>"
+excerpt: "Pictures took in downtown Vancouver in spring 2019.<br/> <img src='/images/vancouver/1.jpg'>"
 collection: portfolio
 ---
 
