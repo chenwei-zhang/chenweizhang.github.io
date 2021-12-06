@@ -8,5 +8,7 @@ Night at Rockefeller Center
 <img src='/images/nyc/2.jpg'><br/><br/><br/>
 Daylight at Empire State Building
 <img src='/images/nyc/3.jpg'><br/><br/><br/>
+Times Square
+<img src='/images/nyc/5.jpg'>
 Historical Landmark
 <img src='/images/nyc/4.jpg'>
