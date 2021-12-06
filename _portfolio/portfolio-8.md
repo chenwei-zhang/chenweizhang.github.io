@@ -1,5 +1,5 @@
 ---
-title: "Niagara Falls"
+title: "Niagara Falls, Ontario"
 excerpt: "Pictures in Niagara Falls.<br/> <img src='/images/niagarafalls/1.jpg'>"
 collection: portfolio
 ---
