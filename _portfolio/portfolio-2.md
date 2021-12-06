@@ -1,6 +1,6 @@
 ---
 title: "Waterloo City"
-excerpt: "Pictures in Wancouver.<br/><br/> <img src='/images/waterloo/1.jpg'>"
+excerpt: "Pictures in Waterloo.<br/> <img src='/images/waterloo/1.jpg'>"
 collection: portfolio
 ---
 
