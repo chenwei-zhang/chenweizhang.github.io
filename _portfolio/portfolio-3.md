@@ -1,5 +1,5 @@
 ---
-title: "New York City"
+title: "New York City, United States"
 excerpt: "Pictures in New York City shot in July 2019.<br/> <img src='/images/nyc/1.jpg'>"
 collection: portfolio
 ---
