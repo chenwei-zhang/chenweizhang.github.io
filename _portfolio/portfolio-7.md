@@ -1,5 +1,5 @@
 ---
-title: "Montréal"
+title: "Montréal, Québec"
 excerpt: "Pictures in winter Montréal and Québec City.<br/> <img src='/images/montreal/1.jpg'>"
 collection: portfolio
 ---
