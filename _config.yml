@@ -86,8 +86,9 @@ author:
   location         : "Vancouver, BC"
   employer         :
   pubmed           :
+  orcid            : "https://orcid.org/0000-0001-6556-9407"
   googlescholar    : "https://scholar.google.com/citations?gmla=AJsN-F6-OjwOU1idkSKCi5uRa0_-6HpgapaU-9hnGhKRDrUT0x1RBOSZHjoHE82Za4rnMD24TvFJqLWiiSfETHrqvxTFSAI2iPowQob9npMMgAdvEsaxqd8&hl=en&inst=17001591832933267808&user=JzFqC3cAAAAJ&view_op=list_works"
-  email            : chwzhan@gmail.com
+  email            : "chwzhan@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Chenwei-Zhang-3"
   uri              :
   bitbucket        :
@@ -103,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chenweizhang95"
-  orcid            : "https://orcid.org/0000-0001-6556-9407"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
