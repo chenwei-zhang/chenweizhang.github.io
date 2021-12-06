@@ -11,10 +11,10 @@ redirect_from:
 Welcome! I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) under the supervision of Prof. [Anne Condon](https://www.cs.ubc.ca/~condon/). I am also affiliated with the [Algorithm Lab (Beta Lab)](https://www.cs.ubc.ca/labs/beta/). I obtained my MSc's degree under the supervision of Prof. [Pavle Radovanovic](http://pavlegroup.uwaterloo.ca/) from the [University of Waterloo](https://uwaterloo.ca) in 2021, where my research focused on the localized surface plasmon resonance in semiconductor nanocrystals and diluted magnetic semiconductors. I earned a dual Bachelor's degree from the University of Waterloo and [Beijing Jiaotong University (China)](http://en.njtu.edu.cn) in 2018.
 
 <b>Research Interests</b>: My research interests lie in machine and deep learning, bioinformatics, and data science, especially predicting DNA kinetics with computational algorithms. And I am broadly interested in interdisciplinary study.
-
-<b>Besides Academics</b>: I enjoy photographing, travelling, reading, and working out in the gym.
  
 <b>Teaching Experience</b>: I have been a teaching assistant in the course CPSC 322 at UBC and CHEM 120L, CHEM 123L, and CHE 102 at UWaterloo. I will TA CPSC 330 in winter 2022 at UBC. 
+
+<b>Besides Academics</b>: I enjoy photographing, travelling, reading, and working out in the gym.
 
 <b>E-Mail</b>: cwzhang [at] cs [dot] ubc [dot] ca
 
