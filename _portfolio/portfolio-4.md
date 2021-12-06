@@ -1,6 +1,6 @@
 ---
 title: "Beijing, China"
-excerpt: "Pictures in Beijing took at the top of a skyscraper.<br/> <img src='/images/beijing/1.jpg'>"
+excerpt: "Pictures in Beijing taken at the top of a skyscraper.<br/> <img src='/images/beijing/1.jpg'>"
 collection: portfolio
 ---
 
