@@ -12,7 +12,7 @@ Welcome! I am a Ph.D. student in the [Department of Computer Science](https://ww
 
 <b>Reasearch Interests</b>: My research interests lies in machine and deep learning, bioinformatics, and data science, escipally predicting DNA kinetics with computational algorithms. And I am broadly interested in interdisciplinary study.
 
-<b>Besides Academics</b>: I really enjoy photographing, travelling, reading, and working out in the gym.
+<b>Besides Academics</b>: I enjoy photographing, travelling, reading, and working out in the gym.
  
 <b>E-Mail</b>: cwzhang [at] cs [dot] ubc [dot] ca
 
