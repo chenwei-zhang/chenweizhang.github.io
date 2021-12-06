@@ -1,6 +1,6 @@
 ---
-title: "Waterloo City"
-excerpt: "Pictures in New York City.<br/> <img src='/images/nyc/1.jpg'>"
+title: "New York City"
+excerpt: "Pictures in New York City shot in July 2019.<br/> <img src='/images/nyc/1.jpg'>"
 collection: portfolio
 ---
 
