@@ -14,6 +14,8 @@ Welcome! I am a Ph.D. student in the [Department of Computer Science](https://ww
 
 <b>Besides Academics</b>: I enjoy photographing, travelling, reading, and working out in the gym.
  
+<b>Teaching</b>: I have multiple teaching experience. I have been a teaching assistant in the course CPSC 322 at UBC, and CHEM 120L, CHEM 123L, and CHE 102 at UWaterloo. And I will TA CPSC 330 in winter 2022 at UBC. 
+
 <b>E-Mail</b>: cwzhang [at] cs [dot] ubc [dot] ca
 
 <b>Address</b>: 2366 Main Mall, ICICS/CS Building, Vancouver, B.C., Canada V6T 1Z4
