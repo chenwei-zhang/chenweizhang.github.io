@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. in the [Department of Computer Science](https://www.cs.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) under the supervision of Prof.[Anne Condon](https://www.cs.ubc.ca/~condon/). I am also affiliated with the [Algorithm Lab (Beta Lab)] (https://www.cs.ubc.ca/labs/beta/). I obtained my MSc's degreen under the supervision of Prof.[Pavle Radovanovic](http://pavlegroup.uwaterloo.ca/) from the [University of Waterloo](https://uwaterloo.ca) in 2021, where my research focused on the localized surface plasmon resonance in semiconductor nanocrystals and diluted magnetic semiconductors. I earned a dual Bachelor's degreen from the University of Waterloo and [Beijing Jiaotong University (China)](http://en.njtu.edu.cn) in 2018.
+Welcome! I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) under the supervision of Prof. [Anne Condon](https://www.cs.ubc.ca/~condon/). I am also affiliated with the [Algorithm Lab (Beta Lab)](https://www.cs.ubc.ca/labs/beta/). I obtained my MSc's degreen under the supervision of Prof. [Pavle Radovanovic](http://pavlegroup.uwaterloo.ca/) from the [University of Waterloo](https://uwaterloo.ca) in 2021, where my research focused on the localized surface plasmon resonance in semiconductor nanocrystals and diluted magnetic semiconductors. I earned a dual Bachelor's degreen from the University of Waterloo and [Beijing Jiaotong University (China)](http://en.njtu.edu.cn) in 2018.
 
-My research interests lies in  
+<b>Reasearch Interests</b>: My research interests lies in machine and deep learning, bioinformatics, and data science, escipally predicting DNA kinetics with computational algorithms. And I am broadly interested in interdisciplinary study.
+
+<b>Besides Academics</b>: I really enjoy photographing, travelling, reading, and working out in the gym.
+ 
+<b>E-mail</b>: cwzhang [at] cs [dot] ubc [dot] ca
+
+<b>Address</b>: 2366 Main Mall, ICICS/CS Building, Vancouver, B.C., Canada V6T 1Z4
 
 
 <!-- A data-driven personal website
