@@ -1,5 +1,5 @@
 ---
-title: "Waterloo City"
+title: "Waterloo, Ontario"
 excerpt: "Pictures in Waterloo.<br/> <img src='/images/waterloo/1.jpg'>"
 collection: portfolio
 ---
