@@ -1,5 +1,5 @@
 ---
-title: "Vancouver City"
+title: "Vancouver, British Columbia"
 excerpt: "Pictures in downtown Vancouver in spring 2019, first time i have been in Vancouver.<br/> <img src='/images/vancouver/1.jpg'>"
 collection: portfolio
 ---
