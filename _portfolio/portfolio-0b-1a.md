@@ -6,4 +6,5 @@ collection: portfolio
 
 <img src='/images/vancouver/2.jpg'><br/><br/><br/>
 <img src='/images/vancouver/3.jpg'><br/><br/><br/>
-<img src='/images/vancouver/4.jpg'>
+<img src='/images/vancouver/4.jpg'><br/><br/><br/>
+<img src='/images/vancouver/5.jpg'>

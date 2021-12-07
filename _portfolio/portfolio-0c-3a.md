@@ -9,3 +9,5 @@ Staircase
 <img src='/images/structure/3.jpg'><br/><br/><br/>
 Spiral Stairs
 <img src='/images/structure/4.jpg'>
+Street Lamp
+<img src='/images/structure/5.jpg'><br/><br/><br/>
