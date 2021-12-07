@@ -8,6 +8,6 @@ Roof
 Staircase
 <img src='/images/structure/3.jpg'><br/><br/><br/>
 Spiral Stairs
-<img src='/images/structure/4.jpg'>
+<img src='/images/structure/4.jpg'><br/><br/><br/>
 Street Lamp
-<img src='/images/structure/5.jpg'><br/><br/><br/>
+<img src='/images/structure/5.jpg'>

@@ -8,4 +8,4 @@ Parliament Hill
 National Gallery of Canada
 <img src='/images/ottawa/3.jpg'><br/><br/><br/>
 Portrait
-<img src='/images/ottawa/3.jpg'>
+<img src='/images/ottawa/4.jpg'>

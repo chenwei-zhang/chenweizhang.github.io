@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Mount Royal's afternoon
 <img src='/images/montreal/2.jpg'><br/><br/><br/>
-Mount Royal's afternoon
+Mount Royal's evening
 <img src='/images/montreal/3.jpg'><br/><br/><br/>
 Portraint in McGill University
 <img src='/images/montreal/4.jpg'><br/><br/><br/>
