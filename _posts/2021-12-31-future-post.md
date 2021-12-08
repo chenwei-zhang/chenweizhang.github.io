@@ -4,8 +4,8 @@ date: 2021-12-31
 permalink: /posts/2021/12/future-post/
 tags:
   - cool posts
-  - category1
-  - category2
+  - diary
+  - academic
 ---
 
 ---
