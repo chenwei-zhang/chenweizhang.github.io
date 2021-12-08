@@ -11,3 +11,4 @@ Rose Garden
 <img src='/images/ubc/4.jpg'><br/><br/><br/>
 Wreck Beach
 <img src='/images/ubc/5.jpg'>
+<img src='/images/ubc/6.jpg'>
