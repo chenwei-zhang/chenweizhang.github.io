@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CHENWEI ZHANG | Stay Hungry. Stay Foolish"
+title                    : "CHENWEI ZHANG"
 title_separator          : "-"
 name                     : &name "Chenwei Zhang"
 description              : &description "Ph.D. Student in Computer Science"
