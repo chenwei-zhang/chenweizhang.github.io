@@ -10,11 +10,11 @@ redirect_from:
 
 Welcome! I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) under the supervision of Prof. [Anne Condon](https://www.cs.ubc.ca/~condon/). I am also affiliated with the [Algorithm Lab (Beta Lab)](https://www.cs.ubc.ca/labs/beta/). I obtained my MSc's degree under the supervision of Prof. [Pavle Radovanovic](http://pavlegroup.uwaterloo.ca/) from the [University of Waterloo](https://uwaterloo.ca) in 2021, where my research focused on the localized surface plasmon resonance in semiconductor nanocrystals and diluted magnetic semiconductors. I earned a dual Bachelor's degree from the University of Waterloo and [Beijing Jiaotong University (China)](http://en.njtu.edu.cn) in 2018.
 
-<b>Research Interests</b>: My research interests lie in machine and deep learning, bioinformatics, and data science, especially predicting DNA kinetics with computational algorithms. And I am broadly interested in interdisciplinary study.
+<b>Research Interests</b>: My research interests lie in machine and deep learning, graph embedding, and bioinformatics. Specifically, I am interested in visualizing state and path spaces of DNA reactions and predicting DNA kinetics with deep learning approaches. Additionally, I am broadly interested in interdisciplinary study.
  
-<b>Teaching Experience</b>: I have been a teaching assistant in the course CPSC 322 at UBC and CHEM 120L, CHEM 123L, and CHE 102 at UWaterloo. I will TA CPSC 330 in winter 2022 at UBC. 
+<b>Teaching Experience</b>: I have been an experienced teaching assistant in ML and AI courses: CPSC 340/330/322 at UBC, and chemistry courses: CHEM 120L/123L, CHE 102 at UWaterloo.
 
-<b>Besides Academics</b>: I enjoy photographing, travelling, reading, and working out in the gym.
+<b>Besides Academics</b>: I enjoy photographing, travelling, reading, playing basketball, and working out in the gym.
 
 <b>E-Mail</b>: cwzhang [at] cs [dot] ubc [dot] ca
 
@@ -30,11 +30,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
