@@ -1,7 +1,7 @@
 ---
 title: "Visualizing DNA Reaction Trajectories with Deep Graph Embedding Approaches"
 collection: publications
-permalink: /publication/1.1-ViDaML
+permalink: /publication/1a-ViDaML
 date: 2022-10-20
 venue: 'NeurIPS 2022'
 citation: '<b>Zhang, C.</b>, Duc, K. D., & Condon, A. (2022). &quot;Visualizing DNA Reaction Trajectories with Deep Graph Embedding Approaches.&quot; <i>NeurIPS 2022 MLSB Workshop</i>.'

@@ -1,7 +1,7 @@
 ---
 title: "Manipulating Carrier Polarization in Pure and Doped Metal Oxide Semiconductor Nanocrystals"
 collection: publications
-permalink: /publication/3.0-MScThesis
+permalink: /publication/3-MScThesis
 date: 2021-02-19
 venue: 'University of Waterloo'
 citation: '<b>Chenwei Zhang</b> (2021). &quot;Manipulating Carrier Polarization in Pure and Doped Metal Oxide Semiconductor Nanocrystals.&quot; <i>UWSpace</i>.'

@@ -1,7 +1,7 @@
 ---
 title: "On the Origin of d<sup>0</sup> Magnetism in Transparent Metal Oxide Nanocrystals"
 collection: publications
-permalink: /publication/3.2-ZnONCs
+permalink: /publication/3b-ZnONCs
 date: 2021-12-13
 venue: 'The Journal of Physical Chemistry C'
 citation: '<b>Zhang, C.</b>, Yin, P., Lu, W., Galievsky, V., & Radovanovic, P. V. (2021). &quot;On the Origin of d<sup>0</sup> Magnetism in Transparent Metal Oxide Nanocrystals.&quot; <i>The Journal of Physical Chemistry C</i> 125(50), 27714-27722.'

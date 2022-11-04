@@ -1,7 +1,7 @@
 ---
 title: "Faster Elementary Steps in DNA Reaction Simulators"
 collection: publications
-permalink: /publication/2.1-DNA28poster
+permalink: /publication/2a-DNA28poster
 date: 2022-08-10
 venue: 'DNA28'
 citation: 'Boyan Beronov, Jordan Lovrod, <b>Chenwei Zhang</b>, Anne Condon (2022). &quot;Faster Elementary Steps in DNA Reaction Simulators.&quot; <i>DNA28 Conference Poster</i>.'
