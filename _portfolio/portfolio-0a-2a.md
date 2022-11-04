@@ -3,7 +3,7 @@ title: "Banff and Jasper"
 excerpt: "Pictures in Banff and Jasper National Parks before pandemic.<br/> <img src='/images/banff/1.jpg'>"
 collection: portfolio
 ---
-<b>Banff is the most beautiful place I've ever been!</b><br/>
+<b>Banff is the most beautiful place I've ever been!</b><br/><br/>
 Johnston Canyon
 <img src='/images/banff/2.jpg'><br/><br/><br/>
 Moraine Lake

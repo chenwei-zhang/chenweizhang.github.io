@@ -9,7 +9,5 @@ citation: 'Boyan Beronov, Jordan Lovrod, <b>Chenwei Zhang</b>, Anne Condon (2022
 
 [Download poster here](https://drive.google.com/file/d/1mGGTsMH97tjb3ecekPdq3dNWIejqWGZz/view?usp=share_link)
 
-<br/><b>Poster</b><br/>
-
-<image src="DNA28_poster.png"/>
-
+<br/><b>Poster</b><br/><br/>
+<img src='/images/research_img/DNA28_poster.png'>
