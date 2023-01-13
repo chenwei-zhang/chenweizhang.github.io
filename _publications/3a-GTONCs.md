@@ -2,13 +2,12 @@
 title: "Revisiting Plasmonic Properties of Complex Semiconductor Nanocrystals Using Magnetic Circular Dichroism Spectroscopy: A Cautionary Tale"
 collection: publications
 permalink: /publication/3a-GTONCs
-date: 2022-08-01
-venue: 'TBD'
-citation: 'TBD'
+date: 2023-01-05
+venue: 'The Journal of Physical Chemistry C'
+citation: 'Kenny-Wilby, A., Jaics, G., <b>Zhang, C.</b>, Yin, P., & Radovanovic, P. V. (2023). &quot;Revisiting Plasmonic Properties of Complex Semiconductor Nanocrystals Using Magnetic Circular Dichroism Spectroscopy: A Cautionary Tale.&quot; <i>The Journal of Physical Chemistry C</i>.'
 ---
-Submitted to Chemistry of Materials. 
 
+[Download paper here](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.2c06569)
 
 <br/><b>Absrtact</b><br/>
-More details is coming up soon...
-
+Plasmonic semiconductor nanocrystals (NCs) have emerged as an attractive alternative to noble metal nanoparticles. They typically exhibit localized surface plasmon resonance (LSPR) in the infrared range, which can be tuned by controlling the type and concentration of charge carriers. Compositionally and electronically complex semiconductor NCs have attracted significant attention due to their reported plasmonic properties, such as bipolar behavior (off-stoichiometric spinel-type gallium iron oxide or GFO), wide tunability (copper iron chalcogenide or Cu<sub>x</sub>Fe<sub>y</sub>S<sub>2-z</sub>Se<sub>z</sub>), and extremely broad LSPR (oxygen-deficient WO<sub>3-x</sub>). However, the origin of these unusual properties remains unclear. Here, we comparatively investigate the plasmonic properties of these semiconductor NC materials using magnetic circular dichroism (MCD) spectroscopy, owing to the highly specific response of LSPR to the magnetic field and light polarization. In all systems, we find indisputable evidence that the LSPR absorption bands have been mischaracterized. MCD signals that coincide with the absorption bands previously assigned to LSPR of GFO and Cu<sub>x</sub>Fe<sub>y</sub>S<sub>2-z</sub>Se<sub>z</sub> NCs show rapid saturation with the magnetic field and independence on the sign of charge carriers, indicating that the corresponding absorption bands are not due to LSPR. This behavior is consistent with intra-ionic and inter-band transitions for GFO and Cu<sub>x</sub>Fe<sub>y</sub>S<sub>2-z</sub>Se<sub>z</sub> NCs, respectively. The MCD signal corresponding to the absorption spectrum of WO<sub>3-x</sub> NCs shows Brillouin function dependence on the magnetic field at high photon energies (attributed to d–d transitions of W5+) and linear dependence in the near-infrared range (attributed to LSPR), indicating that the broad absorption spectrum of WO<sub>3-x</sub> NCs is only partly associated with LSPR. The results of this work help resolve notable discrepancies in the literature, underline the challenges in assigning absorption bands of complex semiconductor NCs to LSPR, and demonstrate that MCD spectroscopy is an invaluable tool for characterization of these materials.
