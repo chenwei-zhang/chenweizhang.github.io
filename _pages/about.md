@@ -20,6 +20,8 @@ Welcome! I am a Ph.D. student in the [Department of Computer Science](https://ww
 
 <b>Address</b>: 2366 Main Mall, ICICS/CS Building, Vancouver, B.C., Canada V6T 1Z4
 
+🔥<b>News</b>: I am going to begin an internship at Amgen where my work will involve modeling the 3D protein structure of proteins with cryoEM density maps by utilizing machine learning approaches. 🎉
+
 
 <!-- A data-driven personal website
 ======
