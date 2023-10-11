@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# [Direct to my new personal webpage](https://chwzhang.com) 
+ 
+<b>NOTE: This webpage will no longer be updated.</b>
 
 Welcome! I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) under the supervision of Prof. [Anne Condon](https://www.cs.ubc.ca/~condon/). I am also affiliated with the [Algorithm Lab (Beta Lab)](https://www.cs.ubc.ca/labs/beta/). I obtained my MSc's degree under the supervision of Prof. [Pavle Radovanovic](http://pavlegroup.uwaterloo.ca/) from the [University of Waterloo](https://uwaterloo.ca) in 2021, where my research focused on the localized surface plasmon resonance in semiconductor nanocrystals and diluted magnetic semiconductors. I earned a dual Bachelor's degree from the University of Waterloo and [Beijing Jiaotong University (China)](http://en.njtu.edu.cn) in 2018.
 
